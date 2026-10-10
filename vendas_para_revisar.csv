@@ -1,0 +1,5 @@
+﻿pedido_id,data,cliente,produto,quantidade,preco_unitario,cidade,motivo_revisao,faturamento
+1004,2026-10-04,Ana,Monitor,,900.0,Brasilia,Quantidade ausente,
+1006,2026-10-06,,Mouse,1.0,50.0,Anapolis,Cliente ausente,50.0
+1008,,Eduardo,Teclado,2.0,150.0,Goiania,Data inválida,300.0
+1009,2026-10-09,Fernanda,Cadeira,0.0,700.0,Brasilia,Quantidade deve ser maior que zero,0.0

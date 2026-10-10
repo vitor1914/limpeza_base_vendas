@@ -1,0 +1,6 @@
+﻿pedido_id,data,cliente,produto,quantidade,preco_unitario,cidade,motivo_revisao,faturamento
+1001,2026-10-01,Ana,Notebook,1.0,3500.0,Brasilia,OK,3500.0
+1002,2026-10-02,Bruno,Mouse,2.0,50.0,Goiania,OK,100.0
+1003,2026-10-03,Carlos,Teclado,1.0,150.0,Brasilia,OK,150.0
+1005,2026-10-05,Diana,Fone,3.0,80.0,,OK,240.0
+1007,2026-10-07,Carlos,Notebook,1.0,3500.0,Brasilia,OK,3500.0
